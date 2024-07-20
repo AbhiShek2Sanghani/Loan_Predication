@@ -1,10 +1,10 @@
-# Loan_Predication
+# Loan Approval Predication
 
 LOANS are the major requirement of the modern world. By this only, Banks get a major part of the total profit. It is beneficial for students to manage their education and living expenses, and for people to buy any kind of luxury like houses, cars, etc. But when it comes to deciding whether the applicant’s profile is relevant to be granted with loan or not. Banks have to look after many aspects.	We are going to develop one such model that can predict whether a person will get his/her loan approved or not by using some of the background information of the applicant like the applicant’s gender, marital status, income, etc
 
 The Dataset Contains 13 features
 Let's discuss how each feature in the dataset could potentially impact the target feature, which is "Loan_Status" (indicating whether the loan was approved or not).
-***Loan_ID***: A unique identifier for each loan application. It doesn't contribute to the decision-making process but can be useful for record-keeping.
+**Loan_ID**: A unique identifier for each loan application. It doesn't contribute to the decision-making process but can be useful for record-keeping.
 **Gender**: Lending institutions might consider gender as a factor in loan approval, depending on historical data or institutional policies. For instance, if there's evidence of gender-based discrimination, it could affect loan approval.
 **Married**: Married individuals may be perceived as more financially stable and responsible. Lenders might be more inclined to approve loans for married applicants.
 **Dependents**: The number of dependents could influence loan approval, as more dependents might mean higher financial responsibilities. Lenders may assess the applicant's ability to repay the loan considering their family size.
