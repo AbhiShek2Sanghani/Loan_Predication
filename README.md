@@ -4,7 +4,7 @@ LOANS are the major requirement of the modern world. By this only, Banks get a m
 
 The Dataset Contains 13 features
 Let's discuss how each feature in the dataset could potentially impact the target feature, which is "Loan_Status" (indicating whether the loan was approved or not).
-**Loan_ID**: A unique identifier for each loan application. It doesn't contribute to the decision-making process but can be useful for record-keeping.
+***Loan_ID***: A unique identifier for each loan application. It doesn't contribute to the decision-making process but can be useful for record-keeping.
 **Gender**: Lending institutions might consider gender as a factor in loan approval, depending on historical data or institutional policies. For instance, if there's evidence of gender-based discrimination, it could affect loan approval.
 **Married**: Married individuals may be perceived as more financially stable and responsible. Lenders might be more inclined to approve loans for married applicants.
 **Dependents**: The number of dependents could influence loan approval, as more dependents might mean higher financial responsibilities. Lenders may assess the applicant's ability to repay the loan considering their family size.
